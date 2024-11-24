@@ -1,4 +1,5 @@
 # End-to-End-RAG-Using-Amazon-Bedrock
+![alt text](image.png)
 
 ## How to run?
 
