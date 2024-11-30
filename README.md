@@ -27,3 +27,11 @@ pip install -r requirements.txt
 ```bash
 streamlit run main.py
 ```
+
+### 1. Login with your AWS console and launch an EC2 instance
+### 2. Run the following commands
+```bash
+sudo apt update
+```
+
+
