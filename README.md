@@ -33,5 +33,31 @@ streamlit run main.py
 ```bash
 sudo apt update
 ```
+```bash
+sudo apt-get update
+```
+```bash
+sudo apt upgrade -y
+```
+```bash
+sudo apt install git curl unzip tar make sudo vim wget -y
+```
+```bash
+git clone Your-repository
+```
+```bash
+sudo apt install python3-pip
+```
+```bash
+pip3 install -r requirements.txt
+```
+```bash
+#Temporary running
+python3 -m streamlit run main.py
+```
+```bash
+#Permanent running
+nohup python3 -m streamlit run main.py
+``` 
 
 
